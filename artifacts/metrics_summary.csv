@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1_score
+Logistic Regression,1.0,1.0,1.0,1.0
+Naive Bayes,1.0,1.0,1.0,1.0
+Random Forest,0.9167,0.8571,1.0,0.9231
+Word2Vec Logistic Regression,0.5,0.5,0.6667,0.5714
